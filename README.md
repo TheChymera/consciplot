@@ -11,6 +11,12 @@ cd consciplot
 python -c "import vdoc; vdoc.vdoc_plot(3)"
 ```
 
+The above code (more precisely the last command) would give you a graphic such as this:
+
+
+![some consciousness](http://chymera.eu/img/consciplots/bit.png)
+
+
 ### Dependencies
 * [matplotlib-venn](https://github.com/konstantint/matplotlib-venn) - in Portage as dev-python/matplotlib-venn 
 
