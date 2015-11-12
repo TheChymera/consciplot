@@ -12,7 +12,7 @@ python -c "import vdoc; vdoc.vdoc_plot(3)"
 ```
 
 ### Dependencies
-dev-python/matplotlib-venn
+* [matplotlib-venn](https://github.com/konstantint/matplotlib-venn) - in Portage as dev-python/matplotlib-venn 
 
 ### Authors
 Horea Christian
